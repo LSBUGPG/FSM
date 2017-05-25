@@ -5,7 +5,7 @@ using UnityEngine;
 public class CharacterMove : MonoBehaviour {
 
     public Rigidbody physics;
-    public float moveForce = 5.0f;
+    public float moveForce = 10.0f;
     public float crouchingMoveForce = 5.0f;
     public float jumpForce = 5.0f;
 
